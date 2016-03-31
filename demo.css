@@ -1,0 +1,11 @@
+p{
+	color:red;
+}
+
+.imgTag{
+	    background-image: url("commoncomponents.png");
+    width: 980px;
+    height: 290px;
+    background-size: 100% 100%;
+    position: absolute;
+}
